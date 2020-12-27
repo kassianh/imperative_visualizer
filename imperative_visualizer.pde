@@ -20,7 +20,7 @@ int canvasHeight = 1080;
 
 String audioFileName = "kingfisher.mp3"; // Audio file in data folder
 
-boolean export = true; // Either export or real time
+boolean export = false; // Either export or real time
 boolean generateAudioTxtFile = false; // Will auto generate if export is true and no audio txt file exists
 
 float fps = 30;
