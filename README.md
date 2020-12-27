@@ -12,7 +12,7 @@ The visualizer was made using the open-source graphics library [Processing](http
 
 [Youtube video with music](https://youtu.be/2v8b7Y9G5-A)
 
-[![GIF in case video doesn't work](https://media.giphy.com/media/StFujEqufPip1Fhqej/giphy.gif)](https://youtu.be/2v8b7Y9G5-A)
+![GIF in case video doesn't work](https://media.giphy.com/media/StFujEqufPip1Fhqej/giphy.gif)
 
 (The logo and writing are not part of the program.)
 
