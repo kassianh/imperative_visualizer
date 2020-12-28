@@ -4,6 +4,8 @@
 
 This project was made to bring movement to some album cover art I made for a release. Please consider having a listen [here](https://estlinmusic.com/imperative). Thank you :)
 
+I also did a little write up about the visualizer, breaking it down further [here](https://www.estlinmusic.com/imperative-visualizer).
+
 ---
 
 ## The Visualizer
