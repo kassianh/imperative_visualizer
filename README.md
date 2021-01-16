@@ -2,7 +2,7 @@
 
 ## About
 
-This project was made to bring movement to some album cover art I made for a release. Please consider having a listen [here](https://estlinmusic.com/imperative). Thank you :)
+This project was made to bring movement to some album cover art I made for a release. Please consider having a listen [here](https://www.estlinmusic.com/imperative). Thank you :)
 
 I also did a little write up about the visualizer, breaking it down further [here](https://www.estlinmusic.com/imperative-visualizer).
 
@@ -12,9 +12,9 @@ I also did a little write up about the visualizer, breaking it down further [her
 
 The visualizer was made using the open-source graphics library [Processing](https://processing.org/) which is very well documented and versatile. My program uses 2D rendering techniques and randomness combined with some external libraries to create a spherical visualizer with many moving parts.
 
-[Youtube video with music](https://youtu.be/2v8b7Y9G5-A)
+[Youtube video with music](https://youtu.be/qFuC8AegR6U)
 
-![GIF in case video doesn't work](gif-15s-kingfisher.gif)
+![GIF](gif-15s-kingfisher.gif)
 
 (The logo and writing are not part of the program.)
 
